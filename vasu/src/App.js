@@ -6,8 +6,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> Manoj
+         master
+          Edit <code>src/App.js</code> This is Vasu
+          Edit <code>src/App.js</code> Manojmain
         </p>
         <a
           className="App-link"
